@@ -6,8 +6,8 @@ static let shared = APICaller()
     
 private init() {}
     private struct Constants {
-        static let apiKey = "c7tepo2ad3i8dq4u1go0"
-        static let sandboxApiKey = "sandbox_c7tepqiad3i8dq4u1gq0"
+        static let apiKey = "c80g7aqad3i8n3bhge0g"
+        static let sandboxApiKey = "sandbox_c80g7e2ad3i8n3bhge2g"
         static let baseUrl = "https://finnhub.io/api/v1/"
         static let day : TimeInterval = 3600 * 24
     }
